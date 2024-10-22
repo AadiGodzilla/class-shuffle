@@ -1,5 +1,4 @@
 .idea/**
-class/**
 .venv/*
 *.xlsx
 conversion/__pycache__
